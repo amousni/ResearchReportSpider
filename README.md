@@ -1,7 +1,7 @@
 # ResearchReportSpider
 搞个行研没得wind账号只能找个平台自己爬了
 
-平台：http:www.51pdf.cn
+平台：http://www.51pdf.cn
 
 邮箱注册每天3份免费下载，不过好像有有效期？搞了26个邮箱，差不多够用了
 
